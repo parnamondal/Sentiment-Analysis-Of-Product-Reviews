@@ -13,12 +13,16 @@ For selecting a product, a customer needs to go through thousands of reviews to 
 ![Alt Text](Img/workflow.png)
 
 ### _During the pre-processing stage of the datasest , the wordcloud formed is :_
+
 ![Alt Text](Img/wordcloud.png)
 
+
 * Sentiment Intensity Analyzer function is being used from Vader to perform sentiment analysis of the review text.
-![Alt Text](Img/review.png)
+![Alt Text](Img/c-matrix.png)
+
 
 * Classification Report :
+
 ### _The accuracy of the model is 90% (approx.) :_
 
 ![Alt Text](Img/score.png)
@@ -28,7 +32,6 @@ For selecting a product, a customer needs to go through thousands of reviews to 
 where (0 - 0.8267 , 1 - 0.173)
 
 ![Alt Text](Img/density plot.png)
-
 
 _Happy learning , Kudos !!_
 
