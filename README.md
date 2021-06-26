@@ -18,7 +18,7 @@ For selecting a product, a customer needs to go through thousands of reviews to 
 
 
 ### Sentiment Intensity Analyzer function is being used from Vader to perform sentiment analysis of the review text.
-![Alt Text](Img/c-matrix.png)
+![Alt Text](Img/matrix.png)
 
 
 ### Classification Report :
@@ -29,7 +29,7 @@ For selecting a product, a customer needs to go through thousands of reviews to 
 
 ### Density Plot : 
 
-![Alt Text](Img/density plot.png)
+![Alt Text](Img/density.png)
 
 where (0 - 0.8267 , 1 - 0.173)
 
