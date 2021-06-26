@@ -8,7 +8,7 @@ Sentiment analysis is contextual mining of text which identifies and extracts su
 #### Objective :
 For selecting a product, a customer needs to go through thousands of reviews to understand a product. But in this prospering day of machine learning, going through thousands of reviews would be much easier if a model is used to polarize those reviews and learn from it. We have used Random Forest Classifier method on the review dataset and have got satisfactory accuracy.
 
-* Work - Flow Diagram of the Project :
+### Work - Flow Diagram of the Project :
 
 ![Alt Text](Img/workflow.png)
 
@@ -17,11 +17,11 @@ For selecting a product, a customer needs to go through thousands of reviews to 
 ![Alt Text](Img/wordcloud.png)
 
 
-* Sentiment Intensity Analyzer function is being used from Vader to perform sentiment analysis of the review text.
+### Sentiment Intensity Analyzer function is being used from Vader to perform sentiment analysis of the review text.
 ![Alt Text](Img/c-matrix.png)
 
 
-* Classification Report :
+### Classification Report :
 
 ### _The accuracy of the model is 90% (approx.) :_
 
@@ -29,9 +29,10 @@ For selecting a product, a customer needs to go through thousands of reviews to 
 
 ### Density Plot : 
 
+![Alt Text](Img/density plot.png)
+
 where (0 - 0.8267 , 1 - 0.173)
 
-![Alt Text](Img/density plot.png)
 
 _Happy learning , Kudos !!_
 
